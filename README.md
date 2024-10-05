@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepakkumarm07
-- 👀 I’m interested in CYBERSECURITY
-- 🌱 I’m currently learning FULLSTACK
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
   
 - 📫 How to reach me ...dkmurugesan12321@gmail.com
 
